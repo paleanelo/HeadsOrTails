@@ -1,6 +1,6 @@
 const { Bot, InlineKeyboard } = require("grammy");
 
-const bot = new Bot("7571928004:AAHrG4wa_vp-ucAfGkRU-a6sWrequJFXovQ");
+const bot = new Bot("7571928004:AAHrG4wa_vp-ucAfGkRU-a6sWrequJFXovQ"); //RockPaperScissors_testtest_bot
 
 
 bot.command("start", (ctx) => {

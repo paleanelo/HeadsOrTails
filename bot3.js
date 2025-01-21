@@ -1,6 +1,6 @@
 const { Bot, InlineKeyboard } = require("grammy");
 
-const bot = new Bot("7673247740:AAHyf5P7fVbcEYh4Wrry_maaKOFzHWLMvgo");
+const bot = new Bot("7673247740:AAHyf5P7fVbcEYh4Wrry_maaKOFzHWLMvgo"); //GuessTheNumber_testtest_bot
 
 
 const userGames = {};

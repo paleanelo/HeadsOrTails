@@ -1,6 +1,6 @@
 const { Bot, InlineKeyboard } = require("grammy");
 
-const bot = new Bot("7452427840:AAEpJ7Lpg54mIIj-Js7t_smEeYKF8B4Qd_M");
+const bot = new Bot("7452427840:AAEpJ7Lpg54mIIj-Js7t_smEeYKF8B4Qd_M"); //HeadsOrTails_test_bot
 
 
 bot.command("start", (ctx) => {
